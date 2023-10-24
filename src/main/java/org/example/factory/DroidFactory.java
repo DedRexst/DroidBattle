@@ -1,4 +1,4 @@
-package org.example;
+package org.example.factory;
 
 import org.example.droids.StandardDroid;
 

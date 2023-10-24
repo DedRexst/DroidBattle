@@ -1,5 +1,10 @@
-package org.example;public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
+package org.example;
+
+import org.example.menu.MainMenu;
+
+
+public class Main {
+    public static void main(String[] args) throws Exception {
+            MainMenu.loopMainMenu();
     }
 }
