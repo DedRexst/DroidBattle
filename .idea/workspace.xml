@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85ccf514-c238-4773-a8d6-368e3a588b2b" name="Changes" comment="It's on my opinion final release.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fights/Fight1VS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StopTheProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/StandardDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/StandardDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fights/TeamFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fights/TeamFight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/CreateDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/CreateDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/ShowTheDroids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/ShowTheDroids.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/StartFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StartFight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/StartTeamFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StartTeamFight.java" afterDir="false" />
-    </list>
+    <list default="true" id="85ccf514-c238-4773-a8d6-368e3a588b2b" name="Changes" comment="Add some changes in the code." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +40,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/_RedDexst_/Desktop/lab3DroidBattle",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,7 +85,7 @@
       <workItem from="1698193064517" duration="11000" />
       <workItem from="1698193092111" duration="2000" />
       <workItem from="1698193463902" duration="98000" />
-      <workItem from="1698194037295" duration="7006000" />
+      <workItem from="1698194037295" duration="7649000" />
     </task>
     <task id="LOCAL-00001" summary="It's on my opinion final release.">
       <created>1698184772180</created>
@@ -107,7 +94,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698184772180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add some changes in the code.">
+      <option name="closed" value="true" />
+      <created>1698262994493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698262994493</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add some changes in the code.">
+      <option name="closed" value="true" />
+      <created>1698263095453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698263095453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="It's on my opinion final release." />
-    <option name="LAST_COMMIT_MESSAGE" value="It's on my opinion final release." />
+    <MESSAGE value="Add some changes in the code." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add some changes in the code." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
