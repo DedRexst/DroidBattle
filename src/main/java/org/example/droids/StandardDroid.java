@@ -1,7 +1,5 @@
 package org.example.droids;
 
-import org.example.fights.TeamFight;
-
 import java.util.HashMap;
 
 
@@ -30,7 +28,7 @@ public class StandardDroid {
             return true;
         }else if (Math.random()*100 + critChance >= minchanceToCritHit){
             standardDroid.minusHealth(damage*2);
-            System.out.println("WOW!!!!" + name + " IT'S A CRITICAL HIT!!! HE DID " + damage + " DAMAGE " + "and " +
+            System.out.println("WOW!!!!" + name + " IT'S A CRITICAL HIT!!! HE DID " + damage*2 + " DAMAGE " + "and " +
                     standardDroid.getHealth() + "HP left");
             return true;
         }else {
@@ -64,7 +62,7 @@ public class StandardDroid {
             } else if (Math.random() * 100 + critChance >= minchanceToCritHit) {
                 droid.minusHealth(damage * 2);
                 System.out.println("WOW!!!!" + name + " FROM TEAM " + teamColor
-                        + " IT'S A CRITICAL HIT!!! HE DID " + damage + " DAMAGE " + "and " +
+                        + " IT'S A CRITICAL HIT!!! HE DID " + damage*2 + " DAMAGE " + "and " +
                         droid.getHealth() + "HP left");
             } else {
                 droid.minusHealth(damage);

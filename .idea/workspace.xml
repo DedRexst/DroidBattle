@@ -4,21 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85ccf514-c238-4773-a8d6-368e3a588b2b" name="Changes" comment="">
+    <list default="true" id="85ccf514-c238-4773-a8d6-368e3a588b2b" name="Changes" comment="It's on my opinion final release.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fights/Fight1VS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StopTheProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/AirDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/AirDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/FireDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/FireDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/HealDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/HealDroid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/StandardDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/StandardDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/droids/StoneDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/droids/StoneDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/DroidFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/DroidFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/factory/MenuFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/factory/MenuFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fights/TeamFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fights/TeamFight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/CreateDroid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/CreateDroid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/MainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/Menu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/ShowTheDroids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/ShowTheDroids.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/StartFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StartFight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/menu/StartTeamFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/menu/StartTeamFight.java" afterDir="false" />
@@ -43,25 +37,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2WDmHoVGWIEHrUbwH3XOo8jGlJ5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/_RedDexst_/Desktop/lab3DroidBattle&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/_RedDexst_/Desktop/lab3DroidBattle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
@@ -94,8 +93,21 @@
       <workItem from="1696970716546" duration="29334000" />
       <workItem from="1697288108090" duration="642000" />
       <workItem from="1697637297228" duration="38632000" />
-      <workItem from="1698055270092" duration="6121000" />
+      <workItem from="1698055270092" duration="6857000" />
+      <workItem from="1698192591267" duration="425000" />
+      <workItem from="1698193064517" duration="11000" />
+      <workItem from="1698193092111" duration="2000" />
+      <workItem from="1698193463902" duration="98000" />
+      <workItem from="1698194037295" duration="7006000" />
     </task>
+    <task id="LOCAL-00001" summary="It's on my opinion final release.">
+      <created>1698184772180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698184772180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +135,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It's on my opinion final release." />
+    <option name="LAST_COMMIT_MESSAGE" value="It's on my opinion final release." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

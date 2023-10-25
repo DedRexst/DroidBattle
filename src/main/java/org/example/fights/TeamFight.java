@@ -52,8 +52,8 @@ public class TeamFight {
     }
 
 
-    private HashMap<String, ArrayList<StandardDroid>> choseTheOneDroid(HashMap<String, ArrayList<StandardDroid>> droidsListForChose, Scanner scanner,
-                                  HashMap<String, StandardDroid> inWhichTeamYouWantAddDroid) throws Exception {
+    private HashMap<String, ArrayList<StandardDroid>> choseDroidsForTheTeam(HashMap<String, ArrayList<StandardDroid>> droidsListForChose, Scanner scanner,
+                                                                            HashMap<String, StandardDroid> inWhichTeamYouWantAddDroid) throws Exception {
         HashMap<String, ArrayList<StandardDroid>> droidsListForChoseNextTeam = (HashMap<String, ArrayList<StandardDroid>>) droidsListForChose.clone();
         for (int i = 0; i < 5; i++) {
             System.out.println(droidsListForChose);
@@ -83,10 +83,10 @@ public class TeamFight {
             HashMap<String, ArrayList<StandardDroid>> temporaryDroidsForChoose = (HashMap<String, ArrayList<StandardDroid>>) droidsListForChose.clone();
             if (i<1) {
                 System.out.println("CHOSE CHAMPIONS FOR RED TEAM");
-                temporaryDroidsForChoose = choseTheOneDroid(temporaryDroidsForChoose, scanner, redTeam);
+                temporaryDroidsForChoose = choseDroidsForTheTeam(temporaryDroidsForChoose, scanner, redTeam);
             }else {
                 System.out.println("CHOSE CHAMPIONS FOR BLUE TEAM");
-                choseTheOneDroid(temporaryDroidsForChoose, scanner, blueTeam);
+                choseDroidsForTheTeam(temporaryDroidsForChoose, scanner, blueTeam);
             }
         }
         System.out.println("This is team red: " + redTeam);

@@ -8,6 +8,13 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 public class StartTeamFight implements Menu{
+    /**
+     * This section of menu that start team fight
+     * @param droids - in this particular implementation must be at least clean HashMap<String, ArrayList<StandardDroid>>
+     *               instance
+     * @param scanner - in this particular implementation must be at least regular Scanner instance
+     * @return - return true and prolong cycle while
+     */
     @Override
     public boolean sectionOfMenu(HashMap<String, ArrayList<StandardDroid>> droids, Scanner scanner) throws Exception {
         TeamFight teamFight = new TeamFight();
